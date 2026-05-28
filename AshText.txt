@@ -1,3 +1,4 @@
 This file was added by Ash on the Ash-AddFile branch!
 This is the second line of code added to the file
-This is the third line of code added to the file
+This is the third line of code added to the file. Adding a change for line 3
+Adding a fourth line
